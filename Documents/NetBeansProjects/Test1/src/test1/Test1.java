@@ -18,6 +18,7 @@ public class Test1 {
         // TODO code application logic here
         System.out.println("Hello");
         System.out.print(args);
+        System.out.print("hahahahahahhahdhasjkdhasjkdbhasjle");
     }
     
 }
